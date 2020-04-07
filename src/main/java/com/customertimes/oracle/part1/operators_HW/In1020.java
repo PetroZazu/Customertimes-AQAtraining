@@ -15,6 +15,9 @@ public class In1020 {
     public static void main(String[] args) {
         boolean tf = returnTrueIf10to20inc(8, 99);
         System.out.println(tf);
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
     }
 
