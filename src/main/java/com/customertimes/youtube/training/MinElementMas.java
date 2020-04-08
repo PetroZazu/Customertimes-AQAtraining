@@ -1,4 +1,4 @@
-package com.customertimes.youtube.LF;
+package com.customertimes.youtube.training;
 
 public class MinElementMas {
     public static void main(String[] args) {

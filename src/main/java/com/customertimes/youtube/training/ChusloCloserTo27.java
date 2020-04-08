@@ -1,4 +1,4 @@
-package com.customertimes.youtube.LF;/*package com.youtube.LF;
+package com.customertimes.youtube.training;/*package com.youtube.LF;
 // NOT DONE
 public class ChusloCloserTo27 {
     public static void main(String[] args) {
