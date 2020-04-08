@@ -1,6 +1,6 @@
 package com.customertimes.youtube.training;
 
-public class FORloop {
+public class ForLoop {
     public static void main(String[] args) {
         int sum = 0;
         int k = -1;

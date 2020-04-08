@@ -1,6 +1,6 @@
 package com.customertimes.youtube.training;
 
-public class minus {
+public class Minus {
     public static void main(String[] args) {
         int a = 0;
         a = 4 - 8;

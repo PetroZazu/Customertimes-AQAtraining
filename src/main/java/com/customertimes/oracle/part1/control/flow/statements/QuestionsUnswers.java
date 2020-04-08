@@ -1,6 +1,6 @@
 package com.customertimes.oracle.part1.control.flow.statements;
 
-public class Questions_Unswers {
+public class QuestionsUnswers {
     /*
     1) The most basic control flow statement supported by the Java programming language is the __if then__ statement.
     2) The __case :(__ -> (switch) statement allows for any number of possible execution paths.

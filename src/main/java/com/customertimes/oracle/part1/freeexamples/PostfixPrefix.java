@@ -1,6 +1,6 @@
 package com.customertimes.oracle.part1.freeexamples;
 
-public class Postfix_Prefix {
+public class PostfixPrefix {
     public static void main (String [] args){
         int a = 2;
         int b = 3;

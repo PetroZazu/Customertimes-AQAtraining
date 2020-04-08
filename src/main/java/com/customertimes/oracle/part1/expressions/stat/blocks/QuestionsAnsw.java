@@ -14,7 +14,7 @@ Bicycle myBike = new Bicycle();   ------> object creation
     */
 
 
-public class Questions_Answ {
+public class QuestionsAnsw {
     public static void main(String[] args) {
     }
 }
