@@ -1,7 +1,5 @@
 package com.customertimes.oracle.part1.expressions.stat.blocks;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 public class TernOperator {
     public static void main(String[] args) {
         int a = 5;
