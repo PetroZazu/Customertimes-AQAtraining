@@ -47,7 +47,7 @@ public class TaskSnakeBonus {
                 if ((i == n) && (n % 2 == 0) && (n % 4 != 0) && (j <= 8)) {
                     System.out.print(" ");
                 }
-                if ((i == n) && (n % 2 == 0) && (n % 4 !=0) && (j > 8)) {
+                if ((i == n) && (n % 2 == 0) && (n % 4 != 0) && (j > 8)) {
                     System.out.print("^");
                 }
                 if ((i == n) && (n % 4 == 0) && (j > 2)) {
@@ -58,14 +58,13 @@ public class TaskSnakeBonus {
                 }
 
 
-
             }
             System.out.println();
         }
     }
 
     public static void main(String[] args) {
-        PrintSnake(4);
+        PrintSnake(20);
     }
 }
 

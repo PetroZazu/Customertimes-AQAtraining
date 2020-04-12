@@ -16,7 +16,7 @@ package com.customertimes.oracle.part1.arrays.control.flow.hw;
 public class Task11 {
     public static void main(String[] args) {
 
-        String[][] mas = new String[6][11];
+        String[][] mas = new String[12][23];
         String a = "*";
         String b = " ";
         int s = (mas[1].length/2); // змінна яка буде мати число середину другого виміру масиву
