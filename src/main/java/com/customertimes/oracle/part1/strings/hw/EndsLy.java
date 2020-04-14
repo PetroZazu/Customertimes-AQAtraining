@@ -10,7 +10,7 @@ public class EndsLy {
     public static Boolean twoCharsFromTheEndLy(String str){
         //str.substring(str.length()-2) == "ly" ? return true : return false;
         if (str.length() < 2){
-            
+
         }
         if ((str.substring(str.length()-2)).equals("ly")) {
             return true;
