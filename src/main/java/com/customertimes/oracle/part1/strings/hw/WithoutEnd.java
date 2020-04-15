@@ -6,7 +6,7 @@ withoutEnd("Hello") → "ell"
 withoutEnd("java") → "av"
 withoutEnd("coding") → "odin"
  */
-public class withoutEnd {
+public class WithoutEnd {
     public static String WithoutEnd(String str) {
         return str.substring(1, str.length()-1);
     }

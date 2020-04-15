@@ -9,7 +9,7 @@ hasBad("badxx") → true
 hasBad("xbadxx") → true
 hasBad("xxbadxx") → false
  */
-public class hasBad {
+public class HasBad {
     public static Boolean badButLittleBitgood(String str) {
        /* if (str.length() >= 3) {
             if (str.substring(0, 3).equals("bad")) {
