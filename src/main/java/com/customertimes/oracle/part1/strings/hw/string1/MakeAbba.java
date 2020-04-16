@@ -1,4 +1,4 @@
-package com.customertimes.oracle.part1.strings.hw;
+package com.customertimes.oracle.part1.strings.hw.string1;
 
 /*
 Given two strings, a and b, return the result of putting them together in the order abba, e.g. "Hi" and "Bye" returns "HiByeByeHi".

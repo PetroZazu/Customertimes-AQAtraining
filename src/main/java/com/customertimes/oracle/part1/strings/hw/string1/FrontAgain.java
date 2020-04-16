@@ -1,4 +1,4 @@
-package com.customertimes.oracle.part1.strings.hw;
+package com.customertimes.oracle.part1.strings.hw.string1;
 
 /*
 Given a string, return true if the first 2 chars in the string also appear at the end of the string, such as with "edited".

@@ -1,4 +1,4 @@
-package com.customertimes.oracle.part1.strings.hw;
+package com.customertimes.oracle.part1.strings.hw.string1;
 /*
 Given a string name, e.g. "Bob", return a greeting of the form "Hello Bob!".
 

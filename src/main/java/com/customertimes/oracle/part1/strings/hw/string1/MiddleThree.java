@@ -1,4 +1,4 @@
-package com.customertimes.oracle.part1.strings.hw;
+package com.customertimes.oracle.part1.strings.hw.string1;
 
 /*
 

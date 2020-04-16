@@ -1,4 +1,4 @@
-package com.customertimes.oracle.part1.strings.hw;
+package com.customertimes.oracle.part1.strings.hw.string1;
 
 /*
 Given a string, return a version without both the first and last char of the string. The string may be any length, including 0.
